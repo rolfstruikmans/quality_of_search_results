@@ -15,7 +15,11 @@ Final Project of Data Science Bootcamp showcasing two methods to quantify the qu
 
 ## Key Learning
 
-## Languages, tools, and libraries OR Languages and Libraries Used
+## Languages and Libraries Used
+- numpy
+- pandas
+- langchain
+- FAISS
 
 ## Schedule
 
@@ -24,4 +28,5 @@ Final Project of Data Science Bootcamp showcasing two methods to quantify the qu
 ## Repository Structure
 
 ## Data Sources
+- https://www.gutenberg.org/
 
