@@ -2,10 +2,10 @@
 Final Project of Data Science Bootcamp showcasing two methods to quantify the quality of search results.
 
 <div style="display: flex;">
-  <img src="images/high_dimensional_cheese.jpg" style="height: 200px;">
-  <img src="images/P1120589.JPG" style="height: 200px;"> 
-  <img src="images/frankenstein_1984.jpg" style="height: 200px;">
-  <img src="images/robotsalut.png" style="height: 200px;">
+  <img src="images/high_dimensional_cheese.jpg" style="height: 180px;">
+  <img src="images/P1120589.JPG" style="height: 180px;"> 
+  <img src="images/frankenstein_1984.jpg" style="height: 180px;">
+  <img src="images/robotsalut.png" style="height: 180px;">
 </div>
 
 ----
