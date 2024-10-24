@@ -1,7 +1,7 @@
 # Project Name
 Final Project of Data Science Bootcamp showcasing two methods to quantify the quality of search results.
 
-![](http://w3.org/Icons/valid-xhtml10)
+![](images/high_dimensional_cheese.jpg)
 ----
 ## Project
 
