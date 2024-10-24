@@ -1,9 +1,7 @@
-# quality_of_search_results
-Final Project of Data Science Bootcamp showcasing two methods to quantify the quality of search results.
-
 # Project Name
+Final Project of Data Science Bootcamp showcasing two methods to quantify the quality of search results.
 ![](http://w3.org/Icons/valid-xhtml10)
-
+----
 ## Project
 
 ## Recommender Implementation
@@ -17,6 +15,6 @@ Final Project of Data Science Bootcamp showcasing two methods to quantify the qu
 ## Database Schema
 
 ## Repository Structure
----
+
 ## Data Sources
 
