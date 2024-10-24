@@ -16,9 +16,9 @@ Final Project of Data Science Bootcamp showcasing two methods to quantify the qu
 ## Key Learning
 
 ## Languages and Libraries Used
-- numpy
-- pandas
-- langchain
+- Numpy
+- Pandas
+- Langchain
 - HuggingFace
 - FAISS
 
