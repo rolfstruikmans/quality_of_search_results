@@ -1,4 +1,4 @@
-# Project Name
+# About Search Engines, and how to find relevant answers in High Dimensional Swiss Cheese
 Final Project of Data Science Bootcamp showcasing two methods to quantify the quality of search results.
 
 <div style="display: flex;">
