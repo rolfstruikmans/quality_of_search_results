@@ -19,6 +19,7 @@ Final Project of Data Science Bootcamp showcasing two methods to quantify the qu
 - numpy
 - pandas
 - langchain
+- HuggingFace
 - FAISS
 
 ## Schedule
