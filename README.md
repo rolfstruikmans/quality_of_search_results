@@ -3,6 +3,7 @@ Final Project of Data Science Bootcamp showcasing two methods to quantify the qu
 
 <div style="display: flex;">
   <img src="images/high_dimensional_cheese.jpg" style="height: 300px;">
+  <img src="images/P1120589.JPG" style="height: 300px;">
   <img src="images/robotsalut.png" style="height: 300px;">
 </div>
 
