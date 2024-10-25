@@ -33,7 +33,7 @@ An outlier question is a data point in the corpus who's nearest neighbors are re
 
 A perfectly embedded question is a data point who's nearest neighbors are more or less the same as the average distance between any two points in the corpus.
 
-![](images/slide_how_can_we_quantify_the_relevance_of_search_results.png)
+<img src="images/slide_how_can_we_quantify_the_relevance_of_search_results.png" style="width: 90%;">
 
 Observing the asymmetry of the distances of an outlier question to its nearest neighbors and the distances of the nearest neighbors to their nearest neighbors and comparing this with the symmetric case for perfectly embedded questions, we can establish a relevance measure in the range 0 to 1.
 
