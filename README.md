@@ -45,7 +45,7 @@ Observing the asymmetry of the distances of an outlier question to its nearest n
 - Project planning and working using agile methods
 - Creating a Minimum Viable Product and improving on it in an iterative process
 - Developing a novel idea with a hard deadline
-- Generating [Swiss Cheese Data](https://medium.com/@r.struikmans/how-to-make-n-dimensional-swiss-cheese-ef9401b8c1de)
+- Making [n-dimensional Swiss Cheese](https://medium.com/@r.struikmans/how-to-make-n-dimensional-swiss-cheese-ef9401b8c1de)
 - Explaining a complicated idea in layman's terms
 
 
