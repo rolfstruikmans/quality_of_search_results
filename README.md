@@ -23,15 +23,15 @@ The relevance measure is demonstrated for the **practical data** by asking quest
 ## Relevance Measure
 The relevance measure provides a number for search results or chatbot-answers between 0 and 1. A relevance number of 0 means that the search result is completely irrelevant, a relevance number of 1 means that the search result is completely relevant. 
 
-When we ask a question to a search engine or LLM the first thing that is done is that the question gets transformed into a data point in an n-dimensional vector space using an Embedding. 
+When we ask a question to a search engine or LLM the first thing that is done is that the question gets transformed into a data point in an **n-dimensional vector space** using an **Embedding**. 
 
-An Embedding is an object that transforms text into a n-dimensional data point in a semantically meaningful way using a LLM. The n-dimensional vector space contains a lot of data points that together constitute the corpus or knowledge space of the search engine. Each data point resembles a piece of information. 
+An **Embedding** is an object that transforms text into a n-dimensional data point in a semantically meaningful way using a LLM. The n-dimensional vector space contains a lot of data points that together constitute the **corpus** or knowledge of the search engine. Each data point resembles a piece of information. 
 
-Having the question now embedded in the corpus, similarity search is used to find the nearest neighbors of the data point resembling the question.
+Having the question now embedded in the corpus, **similarity search** is used to find the **nearest neighbors** of the data point resembling the question.
 
-An outlier question is a data point in the corpus who's nearest neighbors are relatively far away as compared to the average distance between any two points in the corpus.
+An **outlier question** is a data point in the corpus who's nearest neighbors are relatively far away as compared to the average distance between any two points in the corpus.
 
-A perfectly embedded question is a data point who's nearest neighbors are more or less the same as the average distance between any two points in the corpus.
+A **perfectly embedded question** is a data point who's nearest neighbors are more or less the same as the average distance between any two points in the corpus.
 
 <kbd>
   <img src= "images/slide_how_can_we_quantify_the_relevance_of_search_results.png" alt="quantify the relevance of search results">
