@@ -24,6 +24,12 @@ The relevance measure is demonstrated for the **practical data** by asking quest
 
 ## Key Learning
 
+- Project planning and working using agile methods
+- Creating a Minimum Viable Product and improving on it in an iterative process
+- Developing a novel idea with a hard deadline
+- Generating [Swiss Cheese Data](https://medium.com/@r.struikmans/how-to-make-n-dimensional-swiss-cheese-ef9401b8c1de)
+- Explaining a complicated idea in layman's terms
+
 
 ## Languages, tools and libraries
 - numpy
@@ -34,8 +40,6 @@ The relevance measure is demonstrated for the **practical data** by asking quest
 - HuggingFace
 - FAISS
 - similarity search
-
-## Schedule
 
 ## Data Sources
 The books **Frankenstein** and **1984** are downloaded from
