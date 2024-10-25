@@ -37,6 +37,7 @@ A perfectly embedded question is a data point who's nearest neighbors are more o
   <img src= "images/slide_how_can_we_quantify_the_relevance_of_search_results.png" alt="quantify the relevance of search results">
 </kbd>
 
+
 Observing the asymmetry of the distances of an outlier question to its nearest neighbors and the distances of the nearest neighbors to their nearest neighbors and comparing this with the symmetric case for perfectly embedded questions, we can establish a relevance measure in the range 0 to 1.
 
 ## Key Learning
