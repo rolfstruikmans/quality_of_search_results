@@ -16,13 +16,14 @@ The goal of this project was to develop and showcase a relevance measure for Sea
  
 The deliverable is the demonstration of the relevance measure, applied to theoretical, self generated data, i.e. homogeneous data points vs. in-homogeneous data points and to practical data, two search engines, each of them fed with a single book as their corpus. The relevance measure provides a number for search results or chatbot-answers between 0 and 1. A relevance number of 0 means that the search result is completely irrelevant, a relevance number of 1 means that the search result is completely relevant. 
 
-The relevance measure is demonstrated for the **theoretical data** by representing a question as a data point in both a corpus of **homogeneous data points** and a corpus of **in-homogeneous data points**, determining the relevance number in both cases and comparing them for both cases. 
+The relevance measure is demonstrated for the **theoretical data** by representing a question as a data point in both a corpus of **homogeneous data points** and a corpus of **in-homogeneous data points**, determining the relevance number in both cases and comparing them for both cases. The results are shown on page 10-12 in [DS-029 Final Project - Presentation.pdf](https://github.com/rolfstruikmans/quality_of_search_results/blob/main/DS-029%20Final%20Project%20-%20Presentation.pdf)
 
 The relevance measure is demonstrated for the **practical data** by asking questions to two different search engines, each of them fed with a different book as its data. One search engine is fed with the book **Frankenstein** by Mary Shelley and the other search engine is fed with the book **1984** by George Orwell. Then five questions are asked to both search engines, two of which apply to the book Frankenstein, two other questions apply to the book 1984, and the final question has nothing to do with either of the two books. The resulting relevance numbers are listed in a table shown on page 15 in [DS-029 Final Project - Presentation.pdf](https://github.com/rolfstruikmans/quality_of_search_results/blob/main/DS-029%20Final%20Project%20-%20Presentation.pdf).  
 
-## Recommender Implementation
+## Relevance Measure
 
 ## Key Learning
+
 
 ## Languages, tools and libraries
 - numpy
