@@ -29,7 +29,7 @@ Having the question now embedded in the corpus, **similarity search** is used to
 
 An **outlier question** is a data point in the corpus who's nearest neighbors are relatively far away as compared to the average distance between any two points in the corpus.
 
-A **perfectly embedded question** is a data point who's nearest neighbors are more or less the same as the average distance between any two points in the corpus.
+A **perfectly embedded question** is a data point who's nearest neighbors are more or less at the same distance as the average distance between any two points in the corpus.
 
 <kbd>
   <img src= "images/slide_how_can_we_quantify_the_relevance_of_search_results.png" alt="quantify the relevance of search results">
