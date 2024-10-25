@@ -10,8 +10,6 @@ LLMs always provide an answer, but the answer is not always correct. I wanted to
 
 ----
 ## Project
-LLMs always provide an answer, but the answer is not always correct. I wanted to develop something that tells you how well you can trust the answer. This is the Final Project of my WBS Data Science Bootcamp showcasing how Search Engines and LLMs can be enhanced with a relevance measure that indicates the relevance of search results with respect to the question you asked.
-
 The goal of this project was to develop and showcase a relevance measure for Search Engines and LLMs during a limited time of 2.5 weeks with a clearly defined deliverable using agile methods.  
  
 The deliverable is the demonstration of the relevance measure, applied to theoretical, self generated data, i.e. homogeneous data points vs. in-homogeneous data points and to practical data, two search engines, each of them fed with a single book as their corpus. The relevance measure provides a number for search results or chatbot-answers between 0 and 1. A relevance number of 0 means that the search result is completely irrelevant, a relevance number of 1 means that the search result is completely relevant. 
