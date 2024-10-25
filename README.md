@@ -25,7 +25,7 @@ The relevance measure provides a number for search results or chatbot-answers be
 
 When we ask a question to a search engine or LLM the first thing that is done is that the question gets transformed into a data point in an **n-dimensional vector space** using an **Embedding**. 
 
-An **Embedding** is an object that transforms text into a n-dimensional data point in a semantically meaningful way using a LLM. The n-dimensional vector space contains a lot of data points that together constitute the **corpus** or knowledge of the search engine. Each data point resembles a piece of information. 
+An **Embedding** is an object that transforms text into an n-dimensional data point in a semantically meaningful way using a LLM. The n-dimensional vector space contains a lot of data points that together constitute the **corpus** or knowledge of the search engine. Each data point resembles a piece of information. 
 
 Having the question now embedded in the corpus, **similarity search** is used to find the **nearest neighbors** of the data point resembling the question.
 
