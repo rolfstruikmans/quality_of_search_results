@@ -21,7 +21,7 @@ The relevance measure is demonstrated for the **theoretical data** by representi
 The relevance measure is demonstrated for the **practical data** by asking questions to two different search engines, each of them fed with a different book as its data. One search engine is fed with the book **Frankenstein** by Mary Shelley and the other search engine is fed with the book **1984** by George Orwell. Then five questions are asked to both search engines, two of which apply to the book Frankenstein, two other questions apply to the book 1984, and the final question has nothing to do with either of the two books. The resulting relevance numbers are listed in a table shown on page 15 in [DS-029 Final Project - Presentation.pdf](DS-029%20Final%20Project%20-%20Presentation.pdf).  
 
 ## Relevance Measure
-
+![](images/slide_how_can_we_quantify_the_relevance_of_search_results.png)
 ## Key Learning
 
 - Project planning and working using agile methods
